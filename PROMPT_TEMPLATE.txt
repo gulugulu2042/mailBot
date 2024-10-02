@@ -1,0 +1,1743 @@
+Your job is to categorize and summarize mails based on Sender, Subject and Text Content.
+
+The different categories of mails with examples are as follows. A different format is expected to be followed for each.
+
+It is important that the given format be followed. There is no need of any labels. All responses most begin with "<category-nummber>. ". for example "1. " or "2. ".
+
+->Category 1 : Daily clubs and chapters events : Detailed information NOT REQUIRED. Name, single line info and date/time of all events sufficient.
+
+    EXAMPLE INPUT:
+        Sender: "'Director Student Welfare' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: 8th September - Today's events by Clubs and Chapters - Reg.
+
+        Plain Content:  Dear VITians,
+
+        The Office of Students’ Welfare invites you for today’s [8th September]
+        Events
+
+        *Today's Events:*
+
+        - *Plot and Popcorn*
+        - *Silver Lining *
+        - *Teaching the Needy (Sustainable Goal)*
+        - *Transnational Peace Forum*
+        - *Freestyle Forum*
+        - *Movie Screening*
+
+        Scroll down for more information
+
+        *The Next Chapter*
+        Event Name: *Plot and Popcorn*
+        Time: 11:00 am
+        Venue: TT VOC
+        Event Description: "One does not simply walk into Mordor." But you can walk
+        into Plot and Popcorn! Join us for an evening of magic and literature at
+        TNC's Plot and Popcorn! Experience J.R.R. Tolkien’s world The Lord of the
+        Rings as we bring the story from page to screen. Watch as the beloved
+        characters you’ve read about breathtakingly come to life. Whether you're a
+        seasoned denizen of Middle Earth or a curious newcomer, this event promises
+        thought-provoking conversation, unforgettable moments, and a celebration
+        of storytelling.
+        [image: NEXT CHAPTER.jpeg]
+        Registration: VTOP
+
+        *Dramatics Club*
+        Event Name: *Silver Lining *
+        Time: 10 PM to 11 PM
+        Platform: YouTube LIVE
+        Event Description: Join us for an exclusive YouTube Live screening of the
+        much-anticipated online play, Silver Lining. This compelling and
+        heartwarming play delves into the lives of two pairs of individuals
+        navigating the complexities of a challenging relationship that is saved by
+        a well timed knock on the door. During the screening, immerse yourself in
+        the engaging story line, participate in a live chat with the cast and crew,
+        and enjoy exclusive access to this online premiere. Perfect for theater
+        enthusiasts, drama lovers, or in fact anyone who enjoys a good story. This
+        event promises an evening of entertainment, reflection, and connection. Get
+        ready to experience the magic of Silver Lining live!
+        [image: DRAMATICS.jpeg]
+        Registration: VTOP
+        Instagram Link:
+        https://www.instagram.com/vitdramatics?igsh=MTVkMGxnZGJnZDFsOA==
+
+        *Rotaract Club*
+        Event Name: *Teaching the Needy (Sustainable Goal)*
+        Time: 02:00 PM- 04:00 PM
+        Venue: Don Bosco Orphanage ,Vellore ,Tamil Nadu
+        Event Description: Rotaract Club of VIT proudly presents "Teaching the
+        Needy," offering members a unique chance to teach students at Don Bosco
+        subjects like English and Mathematics. This event not only educates but
+        also provides students insight into college life. By fostering learning, we
+        contribute to UN Sustainable Development Goal 4: Quality Education,
+        ensuring inclusive and equitable education and promoting lifelong learning
+        opportunities for all.
+        [image: ROTARACT.jpeg]
+        Registration: VTOP
+        Instagram Link: https://www.instagram.com/rotaract_club_of_vit/
+
+        *VIT Model United Nations Society (VITMUN)*
+        Event Name: *Transnational Peace Forum*
+        Time: 9 am to 5 pm
+        Venue: TT 638
+        Event Description: The  Transnational Peace Forum is an event designed for
+        MUN enthusiasts and young leaders passionate about global issues. This
+        forum offers a platform to engage in thoughtful discussions and simulations
+        focused on international peace and conflict resolution. Participants will
+        collaborate with peers from different backgrounds to develop practical
+        solutions to real-world challenges Through interactive sessions and
+        debates, the forum aims to inspire a deeper understandings of global peace
+        efforts.
+        [image: VITMUN.jpeg]
+        Registration: VTOP
+
+        *VIT Spartans*
+        Event Name: *Freestyle Forum*
+        Time: 5:00 PM to 8:00 PM
+        Venue: Greenos
+        Event Description: You are invited to join us at The Freestyle Forum,
+        hosted by the VIT Spartans Club! Come and experience a showcase of
+        incredible talents in music, dance, and poetry. Enjoy an evening of
+        creativity, energy, and inspiration as participants express their unique
+        artistry. Don’t miss out on this extraordinary event—come and be part of
+        this amazing evening!
+        [image: SPARTANS.jpeg]
+        Registration: VTOP
+        Instagram Link:
+        https://www.instagram.com/vitspartans?igsh=MTE0Yjh0bTY4enp5dw==
+
+        *The Otaku Club*
+        Event Name: *Movie Screening*
+        Time: 4:00 pm to 7:00 pm
+        Venue: Ambedkar Auditorium
+        Event Description: The Otaku Club brings you our event, an action-adventure
+        movie screening where we'll be showing "SPIDER-MAN: Across the Spider
+        Verse". It's known for its diverse and experimental comic animation, unique
+        characters and groundbreaking story with rich, well known spider-men from
+        the multiverse to stop a villain from messing up with realities. Join us
+        for an exciting few hours!
+        [image: OTAKU.jpeg]
+        Registration: VTOP
+        Instagram Link:
+        https://www.instagram.com/theotakuclub_vit?igsh=dnFjcGp6bjZhZDly
+
+        [image: Blood Donor.png]
+        Register and save a life: *https://forms.gle/otzkVqUfQUyb8iDu9*
+        <https://forms.gle/otzkVqUfQUyb8iDu9>
+
+        *Register through VTop and participate in the clubs and chapter events*
+        [image: Official QR codes of Office of students’ welfare1(1).png]
+        For more details about C&C: https://vit.ac.in/campuslife/studentswelfare
+        Facebook:  <https://www.facebook.com/VITstudentswelfare/>
+        https://www.facebook.com/VITstudentswelfare/
+        Instagram:
+        https://www.instagram.com/sw_vit?igsh=aGowd3Z4a2dqMjBt&utm_source=qr
+        Telegram: https://t.me/+4X8neWKUXaU5YWZl
+        Email: events.sw@vit.ac.in
+
+        Regards,
+
+        *Dr. **Naiju CD*
+        Director, Students' Welfare
+        Vellore Institute of Technology, Vellore 632014
+
+        Intercom:2200
+        Mobile: 9566656772
+
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        * - Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)- 10th best University,
+        13th best research institution and 11th best engineering institution in
+        India (NIRF Ranking, Govt. of India 2024)- 6th in India and 687th in the
+        world (US News 2024)- NAAC Accreditation with A++ grade (3.66 out of 4) *
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:
+
+        1.Daily clubs and chapters events.
+        Clubs and Chapters Events:
+        1. Plot and Popcorn: A film screening of The Lord of the Rings with discussions on J.R.R. Tolkien’s storytelling. 11:00 AM. TT VOC.
+        2. Silver Lining: An online play on YouTube exploring complex relationships. 10:00 PM - 11:00 PM. YouTube Live. 
+        3. Teaching the Needy (Sustainable Goal): An educational initiative at Don Bosco Orphanage, supporting UN’s Goal 4. 02:00 PM - 04:00 PM. Don Bosco Orphanage.
+        4. Transnational Peace Forum: A platform for MUN enthusiasts to discuss global peace issues. 9:00 PM - 5:00 PM. TT 638
+        5. Freestyle Forum: An evening of music, dance, and poetry performances. 5:00 PM - 8:00 PM. Greenos.
+        6. Movie Screening: A viewing of Spider-Man: Across the Spider-Verse by the Otaku Club. 4:00 PM - 7:00 PM. Ambedkar Auditorium.
+
+
+
+->Category 2 : Important information : Any Circular or information regarding tests, registrations, submission of documents, or any information relevant to smooth functioning of a college student. Mention all Dates and relevant details in about 40 words.HIGHLY IMPORTANT. MAILS FROM THE HOD OR THE DEAN ARE USUALLY IN THIS CATEGORY. ALL MAILS FROM HELPDESK CDC WILL BE UNDER THIS CATEGORY OR CATEGORY 4.
+
+    EXAMPLE INPUT:
+        Sender: "'HOD, Department of Database Systems' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Fwd: Circular on Industrial Internship Fall 2024 - 25
+
+        Plain Content: Dear Students,
+
+        With reference to the trail mail, those who have completed their industrial
+        internship must register and upload the required documents *on VTOP before
+        the deadline*.
+
+        This is to inform you all that the industrial internship review is planned
+        for the second week of October 2024. As a part of the review process,
+        Students are expected to submit a report (Template Enclosed) to
+        substantiate the work carried out during the internship. Before the
+        commencement of the review, the schedule and guidelines to be followed will
+        be communicated.
+
+
+        *with regards,*
+
+        *Dr.  S. Murali, M.E., Ph.D.*
+
+        Professor and Head,
+
+        Department of Database Systems,
+
+        School of Computer Science and Engineering (SCOPE)
+
+        Vellore Institute of Technology,
+        Vellore, Tamil Nadu, India – 632 014.
+
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+
+
+
+
+        ---------- Forwarded message ---------
+        From: Dean Academics <dean.acad@vit.ac.in>
+        Date: Tue, Jul 30, 2024 at 11:52 AM
+        Subject: Circular on Industrial Internship Fall 2024 - 25
+        To: allstudents.vellore <allstudents.vellore@vit.ac.in>
+        Cc: All HODs, Vellore Campus <allhod@vit.ac.in>, All School Deans Group,
+        Vellore Campus <allschooldeans@vit.ac.in>, Assistant Dean, Academics (Dr.
+        R. Thirumalaivasan) <asstdean.acad1@vit.ac.in>, Assistant Dean, Academics
+        (Dr. Madhu V) <asstdean.acad3@vit.ac.in>
+
+
+        Dear Student,
+
+        Kindly refer to the "Circular on Industrial Internship Fall 2024 - 25"
+        (Applicable to students of all B. Tech Programmes and 5 Year Integrated M.
+        Tech Programmes) and proceed accordingly.
+
+        [image: image.png]
+
+
+
+
+        with regards
+
+
+        M. Anthony Xavior PhD
+        Dean Academics
+        Vellore Institute of Technology,
+        Vellore - 632014
+
+        Intercom: 2981
+        Mob. 9443687391
+
+
+        *Disclaimer:This message was sent from Vellore Institute of Technology.
+        The contents of this email may contain legally protected confidential or
+        privileged information of “Vellore Institute of Technology”.  If you are
+        not the intended recipient, you should not disseminate, distribute or copy
+        this e-mail. Please notify the sender immediately and destroy all copies of
+        this message and any attachments. If you have received this email in error,
+        please promptly notify the sender by reply email and delete the original
+        email and any backup copies without reading them.*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:
+        2.Important information.
+        Students who completed their industrial internship must upload required documents on VTOP before the deadline. The internship review will occur in the second week of October 2024. A report (template provided) is required for the review.
+
+
+
+    EXAMPLE INPUT 2:
+        Sender: "'Helpdesk CDC' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Update: Kind Attn: VISA Applied Students - online test on 7th September 2024 by 6.45 pm
+
+        Plain Content: *Only eligible students will receive the test link*
+
+
+        *Important Instructions for your Online Assessment on 7th September 7:00 PM
+        :*
+
+        Candidates must use the same email address they provided in the
+        registration sheet to take the test.
+
+        •             The test invite is valid for 24 hours, and candidates can
+        take the test at any time within this window. But it is preferred that the
+        test is taken between 7:00 pm – 8:10 pm on 7th September , as decided
+
+        •             Once a candidate logs in and starts the test or the test
+        setup (all mandatory checks such as Video/Govt. ID proof, etc.); they
+        cannot log out.
+
+        •             If a candidate logs out or clicks "Finish the Session," the
+        test link will become inactive, and no new test invites or links will be
+        provided.
+
+        •             Candidates have two options: "Take the test" or "Share
+        previous scores."  If you chose to share previous score please remember:
+
+        you need to change your Coding Report privacy settings to *Everyone* in
+        your profile for this to work. (For help, read How do I update my Coding
+        Report Privacy Settings?) Then you need to click the green *SHARE EXISTING*
+        button.
+
+
+
+        If your previous results that you want to share were not proctored, you
+        will not be able to share your previous results. You will have to take the
+        Visa Assessment
+
+        if you choose to proceed with a *Take* the assessment and earn a lower
+        score from your previous result, Visa will only receive your *new result*,
+        regardless of whether the score is higher or lower than the previous
+        attempt.
+
+        If you want to undertake any practice tests prior to the actual assessment,
+        please do so by clicking on the Green Practice icon.
+
+        Test scores are categorized as follows:
+
+        1.            *Verified*: The test was taken without any
+        plagiarism/discrepancy
+
+        2.            *Unverified*: The test has discrepancies and
+        plagiarism/discrepancy is detected
+
+        --
+
+        Warm regards
+
+        *Dr.V.Samuel Rajkumar,* *B.E.,MBA, MHRM, PhD*
+
+        Director(Career Development Centre)
+
+        VIT, Vellore -14
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+
+
+        On Sat, Sep 7, 2024 at 11:32 AM Helpdesk CDC <helpdesk.cdc@vit.ac.in> wrote:
+
+        > *Kind Attn: VISA Applied Students - Urgent*
+        >
+        >
+        > Please find the attached eligible students list, these students are asked
+        > to fill the below link before 4.00 pm today (7/09/2024) without fail.
+        >
+        >
+        > *Others please do not fill, if found any action will be taken as per
+        > university norms.*
+        >
+        >
+        > Online test is scheduled today by 6.45 pm other details will be shared
+        > shortly.
+        >
+        >
+        >
+        > Application Link: https://smrtr.io/mQkh4
+        >
+        >
+        >
+        > *Important Reminders:*
+        >
+        >    - *Application deadline*: It is mandatory for all registered
+        >    candidates to complete the job application using the following link by *7th September
+        >    before 4PM.*
+        >    - *Personal Email ID*: Students should use their personal email IDs
+        >    when applying. This email ID will be used by VISA throughout the entire
+        >    hiring process, so it is crucial they use the same one consistently.
+        >    - *Application Required for Participation*: Please note that students
+        >    who do not apply through the provided link will not be eligible to
+        >    participate in the Internship process.
+        >
+        > --
+        >
+        > Warm regards
+        >
+        > *Dr.V.Samuel Rajkumar,* *B.E.,MBA, MHRM, PhD*
+        >
+        > Director(Career Development Centre)
+        >
+        > VIT, Vellore -14
+        > *Vellore Institute of Technology (VIT), India -*
+        >
+        >
+        >    - *Engineering and Technology: 212th best in the World and 9th best in
+        >    India (QS World University Rankings by Subject 2024)*
+        >    - *10**th** best University, 13th best research institution and
+        >    11th best engineering institution in India (NIRF Ranking, Govt. of India
+        >    2024)*
+        >    - *6**th** in India and 687th in the world (US News 2024)*
+        >    - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+        >
+        >
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 2:
+
+        2.Important information.
+        Eligible students for the VISA online test must use the same email address as in their registration. The test is on 7th September 2024, from 7:00 PM to 8:10 PM. Candidates must complete it within this window, and once started, they cannot log out. Previous scores can be shared if privacy settings are adjusted; otherwise, a new test result will be recorded.
+
+
+
+    EXAMPLE INPUT 3:
+        Sender: Director Student Welfare <director.sw@vit.ac.in>
+
+        Subject: ECA Course Feedback: Winter Semester 2023-24 - Reg.
+
+        Plain Content:  Dear Students,
+
+        As per our records, you have registered for the ECA Course in Winter
+        Semester 2023-24. We hope you have been actively involved in the activities
+        related to the course.
+
+        You will be submitting your report at the end of this semester (Fall
+        Semester 2024-25) to complete the course.
+
+        We request you to please fill the following feedback for the ECA Course
+        registered: https://forms.gle/cmZsLg7vhgWr7bHL9
+
+        *Last date for filling the Feedback Form: 10.09.2024 (06:00 PM)*
+
+        Regards,
+
+        *Dr. **Naiju CD*
+        Director, Students' Welfare
+        Vellore Institute of Technology, Vellore 632014
+
+        Intercom:2200
+        Mobile: 9566656772
+
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        * - Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)- 10th best University,
+        13th best research institution and 11th best engineering institution in
+        India (NIRF Ranking, Govt. of India 2024)- 6th in India and 687th in the
+        world (US News 2024)- NAAC Accreditation with A++ grade (3.66 out of 4) *
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 3:
+
+        2.Important information.
+        Students registered for the ECA Course in Winter Semester 2023-24 must complete their feedback by 10th September 2024, 6:00 PM. The feedback form can be found through the provided link. The final report for the course is due at the end of Fall Semester 2024-25.
+
+
+
+->Category 3 : Student Welfare Events/ Contests/ Celebrations/ student Acheivements : NOT TO BE CONFUSED WITH CLUBS AND CHAPTERS EVENTS (Category 1). Specify name of Event/ Contest/ Celebration/ Acheivement, date and venue. Messages from the Convenor or Student Welfare are usually under this category.
+
+    EXAMPLE INPUT 1: 
+        Sender: "'Convenor Gravitas' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Invite for Expo 1 - reg.
+
+        Plain Content: Subject: Invitation to Expo 1.0 - graVITas'24
+
+        Dear Students,
+
+        Greetings from the Team graVITas'24!
+
+        With graVITas'24 fast approaching, we are excited to announce the
+        much-anticipated Expo 1.0!
+
+        As the 15th edition of VIT's annual techno-management fest, graVITas
+        represents a celebration of innovation and knowledge. Expo 1.0 will provide
+        a sneak peek into the diverse range of events planned by our vibrant clubs
+        and chapters. From hackathons and workshops to competitions and informal
+        events, you'll get a glimpse of the technical brilliance and creative
+        spirit that graVITas has in store.
+
+        We warmly invite you to join us at Expo 1.0 and explore the exciting
+        possibilities that awaits you at graVITas'24.
+
+        Expo 1.0
+        Date: 05/09/2024
+        Venue: In front of SMV Portico
+        Time: 5:30pm
+
+        Don't miss out on this chance to experience the future of technology and
+        innovation!
+
+
+
+
+
+        Regards,
+
+        Sharmila N
+
+        Convenor, graVITas’24
+
+        Vellore Institute of Technology
+
+        Vellore - 632014
+
+        9841764155.
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 1:
+
+        3.Student Welfare
+        graVITas’24 Expo 1.0 invite. Date : 05/09/2024. Time : 5:30 PM. Venue : In front of SMV Portico. 
+
+
+
+    EXAMPLE INPUT 2:
+        Sender: "'Sekar Viswanathan' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Happy Teachers' Day
+
+        Plain Content: [image: image.png]
+
+
+        Best regards,
+
+        Sekar
+
+
+
+        Dr. Sekar Viswanathan, PhD
+
+        Vice President
+
+        VIT – Vellore, Chennai, AP & Bangalore
+
+
+        Vice President
+
+        Education Promotion Society of India (EPSI), New Delhi
+
+
+        Phone:  +91 416 220 2255
+        Alternate Email: *sekar.vituniversity@gmail.com
+        <sekar.vituniversity@gmail.com>*
+
+        *www.vit.ac.in* <http://www.vit.ac.in/>
+
+        *chennai.vit.ac.in* <http://www.chennai.vit.ac.in/>
+
+        www.vitap.ac.in
+
+        www.vitbangalore.in
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 2:
+
+        3.Student Welfare.
+        Teacher's Day wishes.
+
+
+
+    EXAMPLE INPUT 3:
+        Sender: "'Helpdesk CDC' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Congratulations !! Google summer internship selection List - 2026 Batch
+
+        Plain Content: Congratulations !!
+
+        Google summer internship selection List - 2026 Batch
+
+        Name Reg.No Role
+        Ayush Pandey
+        22BCE3956
+        Software Engineer Intern
+
+        Note:
+
+        The above selected students are not eligible for further summer internships.
+
+        ALL THE BEST
+
+        --
+
+        Warm regards
+
+        *Dr.V.Samuel Rajkumar,* *B.E.,MBA, MHRM, PhD*
+
+        Director(Career Development Centre)
+
+        VIT, Vellore -14
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 3:
+
+        3.Student Welfare.
+        Google Summer Internship Selection
+
+
+
+    EXAMPLE INPUT 4:
+        Sender: "'Director Physical Education' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Sports Achievement
+
+        Plain Content: Dear VITians,
+
+        Greetings!!!
+
+        Dear VITian’s,
+
+        Greetings!!!
+
+        We are extremely happy to announce that the following students have brought
+        laurels to VIT by winning various medals in the District Level Junior
+        Athletic Championship organized by Vellore District Athletic Association,
+        Vellore on 04.09.2024.
+
+        S.No Name  Reg no Event    Age Category  Result
+        1 Ponmani.J 22MIS0565 1500 Mts & 400 Mts U- 20 Gold & Bronze
+        2 Sheryl Kingson  24BAI0306 1500 Mts & 400 Mts U-18  Gold & Bronze
+        3 Subashree.A 24BAG0055 Shot put  U-18  Bronze
+        4 Sitrarasan.S 23BHA0055 5000 Mts U- 20 Bronze
+
+        [image: Athletics 04.09.2024.jpg]
+
+
+        With kind regards,
+
+        *Dr. N.V.Thiyagachanthan*
+
+        Director, Physical Education
+
+        Department of Physical Education
+
+        Vellore Institute of Technology (VIT)
+
+        Vellore 632014, TN, India.
+
+        Phone: +91 416 220 2117
+
+
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 4:
+
+        3.Student Welfare.
+        Sports Acheivement
+
+
+
+->Category 4 : Summer Internship registration/ updates : Mails regarding registrations/ forms to be filled for summer internship programs. Results to be included in Category 3, NOT HERE. Mention Company name, Actions required to apply/ proceed and Registration Deadline. HIGHLY IMPORTANT. ALL MAILS FROM HELPDESK CDC WILL BE UNDER THIS CATEGORY OR CATEGORY 2.
+
+    EXAMPLE INPUT 1:
+        Sender: "'Helpdesk CDC' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: UBS Summer Internship – 2026 Batch - Registration
+
+        Plain Content: *UBS Summer Internship – 2026 Batch*
+
+
+
+
+
+
+
+        Name of the Company
+
+
+
+        UBS
+
+
+
+
+
+        Category
+
+
+
+        Super dream
+
+
+
+
+
+        Date of Visit:
+
+        9th September 2024
+
+
+
+
+
+
+
+        Eligible Branches
+
+
+
+        B.Tech CSE , IT related branches
+
+
+
+
+
+        Eligibility Criteria
+
+        * % in X and XII – 80% or 8.0 CGPA*
+
+        *in Pursuing Degree – 80% or 8.0 CGPA*
+
+        No Standing Arrears
+
+
+
+
+
+        CTC
+
+
+
+        Will be announced later
+
+
+
+        Stipend
+
+
+
+        Will be announced later
+
+
+
+
+
+        Last date for Registration
+
+
+
+        4th September 2024 2.00 pm
+
+
+
+
+
+
+
+        Website
+
+
+
+        www. <http://www.oracle.com/>ubs.com
+
+
+
+
+
+
+
+
+
+        *Registration:*
+
+
+
+        *All the interested and eligible students should register in given below
+        link on or before 4th September 2024 2.00 pm
+
+
+
+
+
+        https://forms.gle/ssA3ni9DSXxLv9Xj7
+
+
+
+        For Summer internship role (3rd year B.Tech students)
+
+        https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5012&Areq=298677BR
+
+
+
+        *Registration in both links is mandatory.*
+
+
+
+
+
+
+
+        *No Manual Registration & extension will be entertained.*
+
+
+
+
+
+        *Mandatory Note:*
+
+
+
+        1. Branches, eligibilities and date for the selection process are tentative
+        and subject to change.
+
+        2. Please update your resume with all relevant details and projects done,
+        in Campus interaction Portal as there would be shortlisting by the company
+        for the selection process.
+
+        3.  Appear for the selection process in formal dress.
+
+        4.  Carry your updated Resumes, photos, College photo ID and all other
+        relevant certificates.
+
+            before the selection process.
+
+        5.  Late comers will not be allowed to attend the selection process.
+
+
+
+
+
+        --
+
+        Warm regards
+
+        *Dr.V.Samuel Rajkumar,* *B.E.,MBA, MHRM, PhD*
+
+        Director(Career Development Centre)
+
+        VIT, Vellore -14
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 1:
+
+        4.Summer Internship.
+        Company : UBS
+        Actions : Fill 2 forms : https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5012&Areq=298677BR and https://forms.gle/ssA3ni9DSXxLv9Xj7  
+        Registration Deadline : 4th September 2024 2.00 pm
+
+
+
+    EXAMPLE INPUT 2:
+        Sender: "'Helpdesk CDC' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: VISA Summer Internship 2026 Registration
+
+        Plain Content: *VISA Summer Internship 2026 Registration*
+
+
+        About us:* VISA is not a Bank or a credit card company!* VISA is the
+        world's leader in digital payments technology which offers Financial
+        Technologies. Visa's mission is to connect the world through the most
+        creative, reliable, and secure payment network - enabling individuals,
+        businesses, and economies to thrive. Our advanced global processing
+        network, VisaNet, provides secure and reliable payments around the world,
+        and is capable of handling more than 65,000 transaction messages a second.
+        The company's dedication to innovation drives the rapid growth of connected
+        commerce on any device and fuels the dream of a cashless future for
+        everyone, everywhere. As the world moves from analog to digital, Visa is
+        applying our brand, products, people, network, and scale to reshape the
+        future of commerce.
+
+
+        *Students having pending credits in the summer semester are not eligible.
+        No OD Will be provided.*
+
+
+        *For PG students - if selected and they are not eligible for internship
+        hiring which starts in March 2025 tentatively.*
+
+
+        Details:
+
+
+
+        *Job Title:*
+
+        *Software Engineering Intern*
+
+        Job Description:
+
+        Please find Attached
+
+        Job Location:
+
+        Bengaluru
+
+        Eligibility:
+
+        CGPA≥7.0
+        No active backlogs
+
+        Eligible batch:
+
+        2026
+
+        Eligible streams:
+
+        CSE/ECE/IT/EEE/SW
+
+        Eligible programs:
+
+        B.E/B.Tech/Dual Degree/
+
+        Internship Period:
+
+        Min. 10 weeks mandatory internship
+
+        Tentative Period:
+
+        mid-May'25 - mid July'25
+
+
+
+
+        Stipend( INR) & Benefits( INR): ( For summer Internship)
+
+
+
+        *Stipend & Benefits*
+
+        *Details*
+
+        *Amount (INR)*
+
+        Visa provides all-rounded work experience to provide an enriching
+        Internship experience, access to exciting projects and career building
+        exposure.
+
+        *Stipend per month (Btech)*
+
+        90,000
+
+        *Stipend per month (M.Tech/ M.Sc/ MCA/ Dual degree)*
+
+        95,000
+
+        **Benefits*
+
+        *Details*
+
+        Relocation
+
+        1,00,000 INR
+
+        Internship program includes
+
+        Live projects, leadership networking, peer group challenges, global
+        hackathons, career development and skill development workshops,
+        Experiential learning with on-the-job training
+
+        Access to office cafeteria
+
+        In-house breakfast & lunch
+
+        Gym, Office transport, snacks, In-house recreational centres
+
+        Free of cost
+
+        Insurance
+
+        Covered
+
+        *All the benefits of your employment with Visa will be governed by
+        policies, procedures and guidelines of Visa, which are subject to change
+        from time to time, at the sole discretion of the management without giving
+        any notice or assigning any reason thereof"
+
+
+
+        *Interested and  eligible students can register in the below link on or
+        before 6th September 2024 2.00 pm without fail.*
+
+
+        *https://forms.gle/4L9qZ2MtVWVrAwWC7 <https://forms.gle/4L9qZ2MtVWVrAwWC7>*
+
+
+
+        --
+
+        Warm regards
+
+        *Dr.V.Samuel Rajkumar,* *B.E.,MBA, MHRM, PhD*
+
+        Director(Career Development Centre)
+
+        VIT, Vellore -14
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        - *Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)*
+        - *10**th** best University, 13th best research institution and
+        11th best engineering institution in India (NIRF Ranking, Govt. of India
+        2024)*
+        - *6**th** in India and 687th in the world (US News 2024)*
+        - *NAAC** Accreditation with A++ grade (3.66 out of 4)*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 2:
+
+        4.Summer Internship.
+        Company : VISA
+        Actions : Fill form : https://forms.gle/4L9qZ2MtVWVrAwWC7
+        Registration Deadline : 6th September 2024 2.00 pm
+
+
+
+->Category 5 : VITTBI Internship registration : NO TO BE CONFUSED WITH CATEGORY 4, SENDER IS DIFFERENT. Mails regarding registrations/ forms to be filled for summer internship programs. Mention Company name, Actions required to apply/ proceed and Registration Deadline. Any internship related mail THAT IS NOT SENT BY HELPDESK CDC WILL BE UNDER THIS CATEGORY. 
+
+    EXAMPLE INPUT:
+        Sender: "'Director TBI' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Fwd: Unlock Diverse Internship Opportunities with Collab Junction! [APPLY NOW] - startup project under preincubation at VITTBI
+
+        Plain Content: Please see below for details
+
+        ---------- Forwarded message ---------
+        From: TBI Coordinator <tbicoordinator@vit.ac.in>
+        Date: Fri, 6 Sept 2024, 13:03
+        Subject: Fwd: Unlock Diverse Internship Opportunities with Collab Junction!
+        [APPLY NOW] - startup project under preincubation at VITTBI
+        To: Director TBI <director.tbi@vit.ac.in>
+
+
+
+        Forwarding internship call from Collab Junction, a startup project under
+        preincubation at VITTBI
+
+        ---------- Forwarded message ---------
+        From: Collab Junction <collabjn@gmail.com>
+        Date: Fri, Sep 6, 2024 at 12:39 PM
+        Subject: Unlock Diverse Internship Opportunities with Collab Junction!
+        [APPLY NOW]
+        To: <vittbi@vit.ac.in>
+        Cc: TBI Coordinator <tbicoordinator@vit.ac.in>
+
+
+        Looking for a genuine, exciting opportunity to grow your career? At Collab
+        Junction, we’re all about bringing people together to create something
+        extraordinary. The collaboration industry is booming - worth over $70
+        billion globally - and there’s plenty of room for innovative voices like
+        yours. Here, you’ll work with top speakers, influencers, and artists while
+        gaining hands-on experience building partnerships that truly make an
+        impact. If you’re ready to be part of a team that values innovation and
+        collaboration, we’d love to have you onboard!
+
+        Here’s some exciting news: In just a few months, Collab Junction has grown
+        its network to include over 350+ influencers, 200+ renowned speakers, and
+        50+ premier brands. We’ve partnered with 90+ top colleges like IITs, IIMs,
+        and AIIMS, bringing together students and professionals to create impactful
+        collaborations.
+
+        Curious about what it's like working with us? Hear directly from our team
+        about their experiences at Collab Junction. Check out their stories
+        <https://www.instagram.com/reel/C94pIgPN2CO/?igsh=ZTk3ZzI5anRxd2o=>*HERE
+        <https://www.instagram.com/reel/C94pIgPN2CO/?igsh=ZTk3ZzI5anRxd2o=>* and
+        get a glimpse of the culture that’s driving us forward!
+
+
+
+        We are looking for passionate interns to join us in the following roles:
+
+
+
+        *Collab Junction -* Technology Roles:
+
+        - *UI/UX Designer* (Skills: Figma, User-Centric Design)
+
+        - *2D/3D Designer or Motion Graphics Designer* (Skills: Adobe After Effects)
+
+        - *Graphic Designer* (Skills: Figma, Photoshop, Canva)
+
+        - *Video Editor* (Skills: CapCut/VN/Adobe Rush)
+
+        - *Backend Developers* (Skills: Node.js, TypeScript, Next.js, API Routes,
+        Prisma)
+
+        - *Full-Stack Developer* (Skills:Tailwind CSS, Next.js, React, API Routes,
+        Prisma, MongoDB)
+
+        - *Database Developers* (Skills: MongoDB)
+
+        - *AI/ML Specialist* (Skills: Recommendation Systems, APIs)
+
+        - *Socket Communication Developers* (Skills: Sockets)
+
+        - *Product Managers* (Skills: Market Research, Feature Management)
+
+        - *Tech R&D* (Skills: Independent Research, Market Analysis)
+
+
+
+        *Collab Junction -* Management Roles:
+
+        - *Content Writer* (Skills: Writing Skills, Storytelling Ability, Creating
+        Engaging Content, Research Skills)
+
+        - *Content Developer* (Skills: Eye-Catching Content, Design Tools
+        familiarity, Trend Analysis)
+
+        - *Operations* (Skills: Clear Communication, Problem Solving Abilities)
+
+        - *Strategy Consultant *(Skills: Corporate Partnership Development,
+        Communication Skills)
+
+        - *Business Developer* (Skills: Product Management, Tech Stack
+        Understanding)
+
+        - *Social Media Manager* (Skills: Digital Marketing, Social Media)
+
+        - *Partnership Development* (Skills: Market Research, Communication, Client
+        Management)
+
+        - *HR Manager* (Skills: Communication, Team Management)
+
+        - *Sales Manager* (Skills: Communication, Lead Handling, Sales Strategies)
+
+        - *Campaign Manager* (Skills: Strategic Thinking, Leadership Skills to
+        guide Cross-Functional Teams)
+
+        - *Research and Development *(Skills: Data Analysis, Communication)
+
+        - *Financial Analyst* (Skills: Grant Management Expertise, Financial
+        Compliance and Auditing, Attention to Detail)
+
+        - *Legal Analyst *(Skills: Corporate Law, Dispute Management & Settlements)
+
+
+
+        What You Will Gain:
+
+        - Internship Certificate Recognized by Top Industries
+
+        - Hands-on Skills That Employers Crave
+
+        - Exclusive Letters of Recommendation for Top Performers
+
+        - Future Extension Opportunities for Top Performers
+
+
+
+        Check out our <https://collabjn.in/>*WEBSITE <https://collabjn.in/>*,
+        <https://www.instagram.com/collabjn.in/>*INSTAGRAM
+        <https://www.instagram.com/collabjn.in/>*,
+        <https://www.linkedin.com/company/collabjn/mycompany/>*LINKEDIN
+        <https://www.linkedin.com/company/collabjn/mycompany/>* and *TWITTER
+        <https://x.com/collabjn?t=9iatQzVtzFEuNsPlBWTNoQ&s=09>* for more details!
+
+
+
+        FORM LINK [APPLY NOW]
+        <https://docs.google.com/forms/d/e/1FAIpQLSeOFRS0Dgc1XTe0hUx0DV1UR6CqFjZgzoxJwSGi2qSvW7KpKg/viewform?usp=sf_link>
+
+        *Application Deadline: 11.09.2024*
+
+
+        For any queries, feel free to reach out to us at collabjn@gmail.com
+
+        *This internship is purely for learning purposes and will not count toward
+        industrial credits. No fees or charges will be collected from you at any
+        stage.*
+
+
+        We can’t wait to see what you bring to the table!
+
+        Best Regards,
+
+        Team Collab Junction
+
+
+
+        *Disclaimer:This message was sent from Vellore Institute of Technology.
+        The contents of this email may contain legally protected confidential or
+        privileged information of “Vellore Institute of Technology”.  If you are
+        not the intended recipient, you should not disseminate, distribute or copy
+        this e-mail. Please notify the sender immediately and destroy all copies of
+        this message and any attachments. If you have received this email in error,
+        please promptly notify the sender by reply email and delete the original
+        email and any backup copies without reading them.*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:
+
+        5.VITTBI Internship.
+        Company : Collab Junction
+        Actions : Fill a form : https://docs.google.com/forms/d/e/1FAIpQLSeOFRS0Dgc1XTe0hUx0DV1UR6CqFjZgzoxJwSGi2qSvW7KpKg/viewform?usp=sf_link
+        Registration Deadline : 11.09.2024
+
+        
+
+->Category 6 : Workshops/ Hackathons/ Competitions/ Webinars : Short summary in about 10 words with important details like Date, Entry Price, and Venue.
+
+    EXAMPLE INPUT:
+        Sender: "'Dean SENSE' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Fwd: Two-Day Online Technical Session on RTL to GDS Flow using Cadence EDA Tools by Entuple Team
+
+        Plain Content: Dear Professors,  Scholars and students,
+
+        Please use the opportunity to learn RTL to GDSII flow using Cadence EDA
+        tools.
+
+        Best regards,
+        Dr. Sivanantham S
+        Dean, SENSE
+
+        ---------- Forwarded message ---------
+        From: Sivanantham S <ssivanantham@vit.ac.in>
+        Date: Fri, Sep 6, 2024, 10:28 PM
+        Subject: Fwd: Two-Day Online Technical Session on RTL to GDS Flow using
+        Cadence EDA Tools by Entuple Team
+        To: Dean SENSE <dean.sense@vit.ac.in>
+
+
+
+
+        Best regards
+        Sivanantham S
+        Dean, SENSE
+
+        ---------- Forwarded message ---------
+        From: ChipIN <chipin@cdac.in>
+        Date: Fri, Sep 6, 2024, 10:20 PM
+        Subject: Two-Day Online Technical Session on RTL to GDS Flow using Cadence
+        EDA Tools by Entuple Team
+        To: chipin@cdac.in <chipin@cdac.in>
+        Cc: support.c2s@meity.gov.in <support.c2s@meity.gov.in>
+
+
+        Dear Sir/Madam,
+
+        Greetings for the day!
+
+        We are pleased to inform you that the ChipIN Centre has requested the
+        Entuple / Cadence Team to conduct a Two-Day Online Technical Session on the
+        RTL to GDS flow using Cadence EDA Tools for all institutions participating
+        in the C2S program.
+
+        The technical sessions will cover the following topics:
+
+        *Day-1 (Date: 11/September/2024, Time: 2:30 pm to 5:30 pm)*
+
+        - Introduction to IC Physical Design Flow.
+        - Cadence EDA tools for PD Flow.
+        - Functional Simulation using Incisive/Xcelium tool.
+        - Coverage analysis using IMC tool.
+        - RTL Synthesis using Genus Synthesis Solution.
+        - Synthesis Optimization for Power/Performance/Area.
+        - Logic Equivalence check using Conformal tool.
+
+        Registration link (Day 1) :
+        https://cdacb.webex.com/weblink/register/rfb3918769ea366aab64048b2669654ec
+
+        *Day-2 (Date: 12/September/2024, Time: 10:00 am to 1:00 pm)*
+
+        - Physical Implementation using Innovus that includes Floor Planning,
+        Power Planning, Placement , CTS & Routing.
+        - Timing Analysis using TEMPUS tool.
+        - Power Analysis VOLTUS tool.
+        - Parasitic Extraction.
+        - Generation of GDS II.
+
+        Registration link (Day 2):
+        https://cdacb.webex.com/weblink/register/re2b049d8c3b0951cff2f1e302a88d9b1
+
+        We are looking forward to your active participation.
+
+        *Note: *
+
+        *1. Please find the attached PDF for the detailed agenda before attending
+        the program.*
+        *2. Registration is mandatory. Once registered, you will receive a link to
+        attend the session.*
+
+        Thanks and Regards,
+        ChipIN Centre
+        C-DAC Bangalore
+
+        ------------------------------------------------------------------------------------------------------------
+
+        [ C-DAC is on Social-Media too. Kindly follow us at:
+        Facebook: https://www.facebook.com/CDACINDIA & Twitter: @cdacindia ]
+
+        This e-mail is for the sole use of the intended recipient(s) and may
+        contain confidential and privileged information. If you are not the
+        intended recipient, please contact the sender by reply e-mail and destroy
+        all copies and the original message. Any unauthorized review, use,
+        disclosure, dissemination, forwarding, printing or copying of this email
+        is strictly prohibited and appropriate legal action will be taken.
+        ------------------------------------------------------------------------------------------------------------
+
+
+
+        *Disclaimer:This message was sent from Vellore Institute of Technology.
+        The contents of this email may contain legally protected confidential or
+        privileged information of “Vellore Institute of Technology”.  If you are
+        not the intended recipient, you should not disseminate, distribute or copy
+        this e-mail. Please notify the sender immediately and destroy all copies of
+        this message and any attachments. If you have received this email in error,
+        please promptly notify the sender by reply email and delete the original
+        email and any backup copies without reading them.*
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:
+
+        6.Workshops/ Hackathons/ Competitions/ Webinars.
+        Online technical session on RTL to GDS flow using Cadence EDA Tools by Entuple Team on 11th and 12th September 2024. Free entry.
+
+
+    EXAMPLE INPUT 2:
+        Sender: "'Director Student Welfare' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Re: Design Inclusive Hackathon 2024 - Applications Invited - Reg.
+
+        Plain Content: Dear Students,
+
+        *Submission Form Closes at 04:00 PM today (06.09.2024).*
+
+        Refer trailing mail for complete details.
+
+        Don't miss out on this wonderful opportunity!!
+
+        Regards,
+
+        *Dr. **Naiju CD*
+        Director, Students' Welfare
+        Vellore Institute of Technology, Vellore 632014
+
+        Intercom:2200
+        Mobile: 9566656772
+
+        *Vellore Institute of Technology (VIT), India -*
+
+
+        * - Engineering and Technology: 212th best in the World and 9th best in
+        India (QS World University Rankings by Subject 2024)- 10th best University,
+        13th best research institution and 11th best engineering institution in
+        India (NIRF Ranking, Govt. of India 2024)- 6th in India and 687th in the
+        world (US News 2024)- NAAC Accreditation with A++ grade (3.66 out of 4) *
+
+
+        On Thu, Sep 5, 2024 at 10:34 PM Director Student Welfare <
+        director.sw@vit.ac.in> wrote:
+
+        > Dear Students,
+        >
+        >
+        > We are excited to extend an invitation to participate and pitch your
+        > innovations at the LAUNCH of *Design Inclusive Hackathon 2024.* This
+        > event, hosted by* Renault-Nissan Technology and Business Centre India
+        > Private Ltd, Chennai*, is an excellent opportunity for your students to
+        > showcase their innovative ideas and prototype solutions.
+        >
+        >
+        > This competition is a platform for students to demonstrate their
+        > creativity, technical skills, and problem-solving abilities. We believe
+        > that your students have the potential to contribute significantly to this
+        > exciting competition.
+        >
+        > *Participants**:* 2 students per team/idea.
+        >
+        >
+        > Interested Students can apply using the following link :
+        > https://forms.gle/4nUBU4QyU8h5cAzV7
+        >
+        > Regards,
+        >
+        > *Dr. **Naiju CD*
+        > Director, Students' Welfare
+        > Vellore Institute of Technology, Vellore 632014
+        >
+        > Intercom:2200
+        > Mobile: 9566656772
+        >
+        > *Vellore Institute of Technology (VIT), India -*
+        >
+        >
+        > * - Engineering and Technology: 212th best in the World and 9th best in
+        > India (QS World University Rankings by Subject 2024)- 10th best University,
+        > 13th best research institution and 11th best engineering institution in
+        > India (NIRF Ranking, Govt. of India 2024)- 6th in India and 687th in the
+        > world (US News 2024)- NAAC Accreditation with A++ grade (3.66 out of 4) *
+        >
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT 2:
+
+        6.Workshops/ Hackathons/ Competitions/ Webinars.
+        Design Inclusive Hackathon 2024 applications close today, 6th September 2024, at 4:00 PM. Free entry. Team of 2.
+
+
+    EXAMPLE INPUT 3:
+        Sender: "'Dr.R.Seenivasan Director (IR)' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Invitation for City St George’s, University of London Student Webinar: Neuro Symbolic AI by Professor Artur Garcez (16/10/24)
+
+        Plain Content: City Student Webinar for Partner Universities
+
+        School of Science & Technology
+
+        City St George’s, University of London
+
+
+
+        Dear Students and Colleagues,
+
+        Our next webinar is *Neuro symbolic AI*, *by Professor Artur Garcez,
+        Wednesday, 16th October 2024 from 14.30 IST (10:00 UK time).* Please find a
+        link below where you can find out more information, including an abstract
+        for the lecture, and *register for the webinar
+        <https://city-ac-uk.zoom.us/meeting/register/tZUqc--srDMrEtVtejYmGToR8yqKBy4OGLyJ>*
+        :
+
+        *City student webinar for partner universities • City, University of London
+        <https://connect.city.ac.uk/city/sst/city-student-webinar-for-partner-universities/_nocache>*
+
+        Each month will feature a new topic, delivered by an expert within the
+        field, and will showcase research and teaching currently taking place
+        within the School. Sessions will consist of an hour’s lecture followed by
+        30 minutes for audience questions. The webinars are designed for students
+        and are offered to all students from our partner universities in
+        India. Staff from partner universities are also welcome to attend.
+
+        We will continue the webinar series throughout 2024, with one webinar per
+        month. The next two webinars will be:
+
+        *Blockchain and users*, by Professor Andrea Baronchelli, Wednesday, 13
+        November from 14:30 IST.
+
+        *Maths for Machine Learning*, by Dr Neil Saunders, Wednesday 11th December
+        from 14:30 IST.
+
+        I also wanted to make you aware that videos of previous webinars are
+        available here
+        <https://connect.city.ac.uk/city/sst/city-student-webinar-for-partner-universities/_nocache>
+        (apart from in the instance that recording was not possible for
+        confidentiality reasons).
+
+        Please note that Zoom is used for webinar delivery. Attendees will need an
+        existing Zoom account in order to register. If you need to register for a
+        free account, please visit Zoom <https://zoom.us/signup#/signup> for
+        details.
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:3
+        City Student Webinar for Partner Universities
+        Webinars conducted by City, University of London.
+        Neuro Symbolic AI
+        By: Professor Artur Garcez
+        Date: 16 Oct 2024, 14:30 IST
+        Register: https://city-ac-uk.zoom.us/meeting/register/tZUqc--srDMrEtVtejYmGToR8yqKBy4OGLyJ
+
+        Blockchain and Users
+        By: Professor Andrea Baronchelli
+        Date: 13 Nov 2024, 14:30 IST
+
+        Maths for Machine Learning
+        By: Dr. Neil Saunders
+        Date: 11 Dec 2024, 14:30 IST
+
+        Recordings Link: https://connect.city.ac.uk/city/sst/city-student-webinar-for-partner-universities/_nocache
+
+
+
+->Category 7 : Other : Write a short summary without missing any important details in about 10 words.
+
+    EXAMPLE INPUT:
+        Sender: "'Dr.R.Seenivasan Director (IR)' via B.Tech. - C S E with Spec. Data Sci 2022 Group, Vellore Campus" <22bds@vitstudent.ac.in>
+
+        Subject: Reminder: Orientation Webinar on 2+2 transfer program to University of Evansville: reg
+
+        Plain Content: Reminder
+
+        On Fri, Aug 30, 2024 at 12:30 PM Dr.R.Seenivasan Director (IR) <
+        director.ir@vit.ac.in> wrote:
+
+        >
+        > Kind Attn: 1st and 2nd year B Tech Mechanical, Civil Engineering,
+        > Electrical Engineering, Computer Science.
+        >
+        > Dear Students,
+        >
+        > This is to inform all that the VIT IR office is organizing an orientation
+        > webinar about the 2+2 Transfer program with the University of Evansville,
+        > USA on 3rd September at 7:30 PM. This session will address the admission
+        > procedure and the timelines for the FALL 2025 Transfer.
+        > Only the current second-year students are eligible for the FALL 2025
+        > Transfer.
+        > Interested students can join the Webinar on 3rd September at 7:30 PM using
+        > the link given below.
+        > First-year students also can join the session for information.
+        > Find attached the poster for more information.
+        >
+        >
+        > *You are invited to a Zoom meeting. When: Sep 3, 2024, 07:30 PM Mumbai,
+        > Kolkata, New Delhi *
+        >
+        > Register in advance for this meeting:
+        >
+        > https://vit-ac-in.zoom.us/meeting/register/tZckfuquqzoqHNRpec_MT6chHZFFEz7a8pTg
+        >
+        > After registering, you will receive a confirmation email containing
+        > information about joining the meeting.
+        >
+        >
+
+        -- 
+        **Disclaimer:*
+        This message was sent from Vellore Institute of Technology.  
+        The contents of this email may contain legally protected confidential or 
+        privileged information of “Vellore Institute of Technology”.  If you are 
+        not the intended recipient, you should not disseminate, distribute or copy 
+        this e-mail. Please notify the sender immediately and destroy all copies of 
+        this message and any attachments. If you have received this email in error, 
+        please promptly notify the sender by reply email and delete the original 
+        email and any backup copies without reading them.*
+
+
+    EXAMPLE OUTPUT:
+
+        7.Other.
+        Orientation webinar on 2+2 Transfer Program to University of Evansville on 3rd Sept, 7:30 PM.
+
+
+
+->Category 8 : Spam : Write whom it is from.
+
+    EXAMPLE INPUT:
+        Sender: Adobe Acrobat <mail@mail.adobe.com>
+
+        Subject: Perfect your PDFs on the go
+
+        Plain Content: View web version:
+        https://t-info.mail.adobe.com/r/?id=t5405cb2f,fdc8f16c,bfd32aad&e=cDE9JTQwS3g5d1IzelNZemo1NG9PYW5WZWFJMlk5WVlYZnlpaEhnQ3M2Q295QkpOOCUzRA&s=H4uF3gH1a6Urlz-uCu_xBexsBSZUNEHcvqd731Wpk4E
+
+        Unfortunately, your email client cannot display HTML or your settings are turned off. To view this email, please click or copy and paste the link above into your browser.
+        ******************************************************************
+        This is a marketing email from Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.
+
+        Click on the following link to unsubscribe, or send us an unsubscribe request to the postal address above.
+        Click&nbsp;here:  https://t-info.mail.adobe.com/r/?id=t5405cb2f,fdc8f16c,bfd32aae&e=cDE9JTQwUFpsYSUyQjd0UVRMakhyMHpKWGd1Yjgwc2pMTExiQTE2MTJMWGElMkIyOCUyRnhKQkolMkZoZmNhREM4ZXZhdWN4cktTSEhPJnAyPSZsb2M9aW4mcDM9MzQ&s=xQtdfaytGy3davB_hlN2WZRAgNBA0IFolRAq4E_0Cpo  
+
+        Please review the Adobe Privacy Policy.
+        https://t-info.mail.adobe.com/r/?id=t5405cb2f,fdc8f16c,bfd32aaf
+
+        To ensure future delivery of email, please add mail@mail.adobe.com to your address book, contacts, or safe senders list.
+        https://t-info.mail.adobe.com/r/?id=t5405cb2f,fdc8f16c,bfd32ab0
+
+        Please do not reply to this message. To contact Adobe,find options online.
+        https://t-info.mail.adobe.com/r/?id=t5405cb2f,fdc8f16c,bfd32ab1
+
+
+    EXAMPLE OUTPUT:
+
+        8.Spam.
+        Adobe Acrobat spam.
+
+
+Now categorize and summarize this mail based on the given context 
+
+INPUT :
